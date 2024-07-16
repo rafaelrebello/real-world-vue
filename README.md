@@ -1,10 +1,9 @@
 # real-world-vue
 
-## Primeira atividade utilizando vue.js, desenvolvida para a disciplina de Programação Web do curso de Sistemas de Informação do IFC. 
+## Atividade utilizando vue.js, desenvolvida para a disciplina de Programação Web do curso de Sistemas de Informação do IFC. 
 
-## Primeiro Setup
 
-![foto do setup vue.js](screenshots/atividade%202.png)
+![foto do setup vue.js](screenshots/atividade_3.png)
 
 ---
 
