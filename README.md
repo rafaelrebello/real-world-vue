@@ -2,8 +2,10 @@
 
 ## Atividade utilizando vue.js, desenvolvida para a disciplina de Programação Web do curso de Sistemas de Informação do IFC. 
 
+## Tutorial 4 - Vue Router Essentials (Fundamentos do Vue Router)
 
-![foto do setup vue.js](screenshots/atividade_3.png)
+
+![foto do setup vue.js](screenshots/atividade_4.png)
 
 ---
 
