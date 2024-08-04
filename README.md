@@ -2,7 +2,7 @@
 
 ## Atividade utilizando vue.js, desenvolvida para a disciplina de Programação Web do curso de Sistemas de Informação do IFC. 
 
-## Tutorial 5. Chamadas de API Com Axios
+## Tutorial 6. Roteamento Dinâmico
 
 
 ![foto do setup vue.js](screenshots/atividade_5.png)
